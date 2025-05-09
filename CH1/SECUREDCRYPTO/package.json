@@ -1,0 +1,16 @@
+{
+  "name": "bac(broken_access_control)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "InSecured.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^5.1.0"
+  }
+}
